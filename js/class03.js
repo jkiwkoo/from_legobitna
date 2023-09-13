@@ -19,4 +19,4 @@ let patientList = [
 
 console.log(patientList);
 console.log('첫번째 환자는', patientList[0]);
-console.log('첫번째 환자는', patientList[0].age);
+console.log('첫번째 환자의 나이는', patientList[0].age);
